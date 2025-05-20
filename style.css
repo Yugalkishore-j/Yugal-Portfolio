@@ -247,6 +247,10 @@ section {
     font-weight: 500;
     margin-bottom: 20px;
     color: var(--text-light);
+    height: 2.5rem;
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
 }
 
 .hero-description {
